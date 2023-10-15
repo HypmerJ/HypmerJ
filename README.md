@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Omer. I live in Azerbaijan. I have been using computers since I was 4 years old and I am highly experienced in all aspects.
+- 🏫 BSIIVEC - "ICT" specialty, I studied on the German "Dual Education" project, I am an intern at the "ATL Academy" company, which has partnered on the project.
+- 👀 I’m interested in my goal to become a Full Stack Developer.
+- 🌱 I’m currently learning JavaScript and frameworks
+- 📫 to reach me gmail: omer.tapdiqov@gmail.com
